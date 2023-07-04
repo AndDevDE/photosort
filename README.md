@@ -1,4 +1,7 @@
 # PhotoSort
+
+<img src="./icon.png" width="100px">
+
 A simple GUI python software for quick photo sorting.
 
 Just open a folder, and easily sort your photos into two different folders just by pressing two keys on the keyboard. No mouse requiered!
