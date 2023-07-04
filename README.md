@@ -40,3 +40,6 @@ python photosort.py
 First run the file, then select a folder.
 
 Use <b>Left-</b> and <b>Right-Arrow</b> keys to navigate through the pictures. Use <b>x</b> to move the picture to the "trash" folder, use <b>y</b> to move picture to the keep folder. Use <b>+</b> and <b>-</b> to make photo viewer larger/smaller.
+
+<b>WARNING:</b><br>
+The script requieres you to create the folders "keep" and "trash" inside the directory where your photos are yourself!
